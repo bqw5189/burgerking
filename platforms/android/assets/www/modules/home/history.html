@@ -1,0 +1,35 @@
+<ion-view view-title="Timeline">
+  <ion-content >
+    <div id="cd-timeline" class="cd-container">
+      <div class="cd-timeline-block">
+        <div class="cd-timeline-img cd-picture">
+          <img src="lib/timeline/img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+  
+        <div class="cd-timeline-content">
+          <img ng-src="modules/home/img/tit_history.png" alt="2011年9月"/>
+        </div> <!-- cd-timeline-content -->
+      </div> <!-- cd-timeline-block -->
+      
+      <div class="cd-timeline-block" ng-repeat="history in historys" on-last-repeat>
+        <div class="cd-timeline-img cd-picture">
+          <img src="lib/timeline/img/cd-icon-picture.svg" alt="Picture">
+        </div> <!-- cd-timeline-img -->
+  
+        <div class="cd-timeline-content">
+          <h2>{{history.year}}年{{history.month}}月</h2>
+          <p>
+             <a href="modules/home/img/{{history.href}}" class="swipebox" title="{{history.year}}年{{history.month}}月">
+                <img ng-src="modules/home/img/{{history.href}}" alt="{{history.year}}年{{history.month}}月">
+             </a>
+          </p>
+          <span class="cd-date">{{history.month}}月</span>
+        </div> <!-- cd-timeline-content -->
+      </div> <!-- cd-timeline-block -->    
+    </div> <!-- cd-timeline -->
+    
+    
+    <ion-infinite-scroll on-infinite="loadMore()" distance="1%" ng-if="moreDataCanBeLoaded()"></ion-infinite-scroll>
+  </ion-content>
+  
+</ion-view>
