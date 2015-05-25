@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-var bkchina = angular.module('bkchina', ['ionic', 'menu.controllers','home.controllers'])
+var bkchina = angular.module('bkchina', ['ionic', "chart.js",'menu.controllers','home.controllers','bi.controllers','oa.controllers'])
 .directive('onLastRepeat', function() {
         return function(scope, element, attrs) {
             if (scope.$last) setTimeout(function(){
