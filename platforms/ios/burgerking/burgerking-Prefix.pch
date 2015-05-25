@@ -17,7 +17,7 @@
  under the License.
  */
 //
-// Prefix header for all source files of the 'fire' target in the 'fire' project
+// Prefix header for all source files of the 'burgerking' target in the 'burgerking' project
 //
 
 #ifdef __OBJC__

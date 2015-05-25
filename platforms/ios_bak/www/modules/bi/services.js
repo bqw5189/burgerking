@@ -1,0 +1,3 @@
+bkchina.factory('BIDatas', function() {
+  
+});

@@ -1,8 +1,42 @@
 angular.module('home.controllers', [])
 
 .controller('HomeCtrl', function($scope) {
+}).controller('HistoryCtrl', function($scope, $ionicModal, $ionicPopup,HistoryDatas,Session) {
 
-}).controller('HistoryCtrl', function($scope, HistoryDatas) {
+	 // Create the login modal that we will use later
+	  $ionicModal.fromTemplateUrl('modules/home/login.html', {
+	    scope: $scope
+	  }).then(function(modal) {
+	    $scope.modal = modal;
+	    if (!Session.isLogin){
+			 $scope.modal.show();
+		  }
+	  });
+
+	  // Triggered in the login modal to close it
+	  $scope.closeLogin = function() {
+		  Session.isLogin = true;
+	    $scope.modal.hide();
+	  };
+
+	  // Open the login modal
+	  $scope.login = function() {
+	    $scope.modal.show();
+	  };
+	  
+	  $scope.doLogin = function(isValid) {
+		  if (!isValid) {
+			  $ionicPopup.alert({
+			     title: 'Error!',
+			     template: 'Please Input Form!'
+			   });
+	      }else{
+			  Session.isLogin = true;
+			  Session.loginData=$scope.loginData;
+			  $scope.modal.hide();
+		  }
+	  };
+	
 	$scope.historys = [ HistoryDatas[0], HistoryDatas[1] ];
 	
 	$scope.loadMore = function() {
