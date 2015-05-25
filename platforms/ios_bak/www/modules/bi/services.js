@@ -1,3 +1,0 @@
-bkchina.factory('BIDatas', function() {
-  
-});

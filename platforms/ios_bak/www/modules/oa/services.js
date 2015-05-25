@@ -1,3 +1,0 @@
-bkchina.factory('OADatas', function() {
-  
-});
