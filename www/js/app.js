@@ -4,7 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-var bkchina = angular.module('bkchina', ['ionic', "chart.js",'menu.controllers','home.controllers','bi.controllers','oa.controllers'])
+var bkchina = angular.module('bkchina', ['ionic','chieffancypants.loadingBar', "chart.js",'menu.controllers','home.controllers','bi.controllers','oa.controllers'])
 .directive('onLastRepeat', function() {
         return function(scope, element, attrs) {
             if (scope.$last) setTimeout(function(){
@@ -30,8 +30,11 @@ var bkchina = angular.module('bkchina', ['ionic', "chart.js",'menu.controllers',
 	$stateProvider
     .state('bkchina', {
 	    url: "/bkchina",
-	    templateUrl: "index.html"
+	    templateUrl: "index.html",
+	    controller:'IndexCtrl'
 	  })
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/bkchina/menu/home/history');
+})  .config(function(cfpLoadingBarProvider) {
+    cfpLoadingBarProvider.includeSpinner = false;
 });

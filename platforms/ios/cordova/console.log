@@ -52,3 +52,83 @@
 2015-05-25 11:39:12.978 burgerking[30496:847260] Unlimited access to network resources
 2015-05-25 11:39:13.226 burgerking[30496:847260] Resetting plugins due to page load.
 2015-05-25 11:39:13.898 burgerking[30496:847260] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/D8901C48-76BE-42F8-8810-9AB11BCD08C6/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:10:36.891 burgerking[36051:3498856] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/921C8327-5E23-4D4F-A97F-722F11C1429E/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:10:37.327 burgerking[36051:3498856] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:10:37.328 burgerking[36051:3498856] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:10:37.360 burgerking[36051:3498856] Unlimited access to network resources
+2015-05-25 16:10:38.085 burgerking[36051:3498856] [CDVTimer][splashscreen] 238.826990ms
+2015-05-25 16:10:38.087 burgerking[36051:3498856] [CDVTimer][TotalPluginStartup] 240.436018ms
+2015-05-25 16:10:38.381 burgerking[36051:3498856] Resetting plugins due to page load.
+2015-05-25 16:10:39.191 burgerking[36051:3498856] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/78393421-8F05-4CB3-A452-8AF73FA154C9/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:17:24.975 burgerking[57725:3617666] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/20BF1186-AEA9-427B-BBC8-AF721EC76381/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:17:25.061 burgerking[57725:3617666] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:17:25.061 burgerking[57725:3617666] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:17:25.064 burgerking[57725:3617666] Unlimited access to network resources
+2015-05-25 16:17:25.192 burgerking[57725:3617666] [CDVTimer][splashscreen] 23.130000ms
+2015-05-25 16:17:25.192 burgerking[57725:3617666] [CDVTimer][TotalPluginStartup] 23.321033ms
+2015-05-25 16:17:25.286 burgerking[57725:3617666] Resetting plugins due to page load.
+2015-05-25 16:17:26.249 burgerking[57725:3617666] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/1894C247-0C70-496E-BA6E-423C3158DEC0/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:18:52.652 burgerking[62867:3644939] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/6864E387-B1DC-482B-8CF6-BB7F1914DCB9/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:18:52.748 burgerking[62867:3644939] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:18:52.749 burgerking[62867:3644939] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:18:52.752 burgerking[62867:3644939] Unlimited access to network resources
+2015-05-25 16:18:52.902 burgerking[62867:3644939] [CDVTimer][splashscreen] 29.820025ms
+2015-05-25 16:18:52.902 burgerking[62867:3644939] [CDVTimer][TotalPluginStartup] 30.108988ms
+2015-05-25 16:18:53.028 burgerking[62867:3644939] Resetting plugins due to page load.
+2015-05-25 16:18:53.710 burgerking[62867:3644939] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/554C193C-A579-4582-9792-F002F08D4464/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:34:07.576 burgerking[17548:3943392] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/FF4F9115-0A28-40C6-9180-D21B41426C99/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:34:07.736 burgerking[17548:3943392] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:34:07.736 burgerking[17548:3943392] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:34:07.739 burgerking[17548:3943392] Unlimited access to network resources
+2015-05-25 16:34:07.953 burgerking[17548:3943392] [CDVTimer][splashscreen] 56.092978ms
+2015-05-25 16:34:07.953 burgerking[17548:3943392] [CDVTimer][TotalPluginStartup] 56.397021ms
+2015-05-25 16:34:08.113 burgerking[17548:3943392] Resetting plugins due to page load.
+2015-05-25 16:34:08.633 burgerking[17548:3943392] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/69BAAC5F-449C-4A2B-BF40-0584194DAC91/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:35:11.161 burgerking[22003:3967245] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/2E2EA0BF-1072-4593-84EC-B7EF07180351/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:35:11.313 burgerking[22003:3967245] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:35:11.315 burgerking[22003:3967245] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:35:11.318 burgerking[22003:3967245] Unlimited access to network resources
+2015-05-25 16:35:11.472 burgerking[22003:3967245] [CDVTimer][splashscreen] 22.612035ms
+2015-05-25 16:35:11.473 burgerking[22003:3967245] [CDVTimer][TotalPluginStartup] 22.922993ms
+2015-05-25 16:35:11.552 burgerking[22003:3967245] Resetting plugins due to page load.
+2015-05-25 16:35:11.948 burgerking[22003:3967245] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/E3B641E7-BD71-4F55-90E3-ED373C066E5B/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:35:30.079 burgerking[23381:3974122] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/631AB9E6-3415-41DD-969F-1722C9A47022/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:35:30.193 burgerking[23381:3974122] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:35:30.193 burgerking[23381:3974122] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:35:30.197 burgerking[23381:3974122] Unlimited access to network resources
+2015-05-25 16:35:30.355 burgerking[23381:3974122] [CDVTimer][splashscreen] 18.891990ms
+2015-05-25 16:35:30.355 burgerking[23381:3974122] [CDVTimer][TotalPluginStartup] 19.069016ms
+2015-05-25 16:35:30.426 burgerking[23381:3974122] Resetting plugins due to page load.
+2015-05-25 16:35:30.881 burgerking[23381:3974122] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/3EEB3B8A-EE43-4BDB-9E62-9A59E02D4B10/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:35:58.027 burgerking[25326:3984111] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/6711C123-C624-440C-98C1-20BEC7FE056A/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:35:58.133 burgerking[25326:3984111] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:35:58.133 burgerking[25326:3984111] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:35:58.138 burgerking[25326:3984111] Unlimited access to network resources
+2015-05-25 16:35:58.251 burgerking[25326:3984111] [CDVTimer][splashscreen] 16.485989ms
+2015-05-25 16:35:58.252 burgerking[25326:3984111] [CDVTimer][TotalPluginStartup] 16.673982ms
+2015-05-25 16:35:58.322 burgerking[25326:3984111] Resetting plugins due to page load.
+2015-05-25 16:35:58.733 burgerking[25326:3984111] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/741DD64E-0925-4D0B-BEA3-78DD2E9306C9/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:37:48.279 burgerking[33172:4026858] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/1BF0AAC4-D23D-44FC-92DB-42C024F7ED3E/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:37:48.386 burgerking[33172:4026858] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:37:48.386 burgerking[33172:4026858] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:37:48.389 burgerking[33172:4026858] Unlimited access to network resources
+2015-05-25 16:37:48.590 burgerking[33172:4026858] [CDVTimer][splashscreen] 53.757012ms
+2015-05-25 16:37:48.590 burgerking[33172:4026858] [CDVTimer][TotalPluginStartup] 54.058969ms
+2015-05-25 16:37:48.718 burgerking[33172:4026858] Resetting plugins due to page load.
+2015-05-25 16:37:49.214 burgerking[33172:4026858] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/97B24CEF-6A5B-4C7C-9235-F2D1855BB93D/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:48:04.364 burgerking[76590:4264959] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/12D62F4E-F841-44F9-A4BA-8901798045F5/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:48:04.489 burgerking[76590:4264959] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:48:04.490 burgerking[76590:4264959] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:48:04.492 burgerking[76590:4264959] Unlimited access to network resources
+2015-05-25 16:48:04.666 burgerking[76590:4264959] [CDVTimer][splashscreen] 36.903024ms
+2015-05-25 16:48:04.666 burgerking[76590:4264959] [CDVTimer][TotalPluginStartup] 37.162006ms
+2015-05-25 16:48:04.765 burgerking[76590:4264959] Resetting plugins due to page load.
+2015-05-25 16:48:05.240 burgerking[76590:4264959] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/FD9E8B55-03DB-44CA-ADE0-7EA8A0090E2B/burgerking.app/www/index.html#/bkchina/menu/home/history
+2015-05-25 16:49:38.467 burgerking[83097:4300355] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Data/Application/E9210800-DBAE-422F-B5EA-9CC9C466F356/Library/Cookies/Cookies.binarycookies
+2015-05-25 16:49:38.585 burgerking[83097:4300355] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-25 16:49:38.585 burgerking[83097:4300355] Multi-tasking -> Device: YES, App: YES
+2015-05-25 16:49:38.588 burgerking[83097:4300355] Unlimited access to network resources
+2015-05-25 16:49:38.760 burgerking[83097:4300355] [CDVTimer][splashscreen] 19.766033ms
+2015-05-25 16:49:38.760 burgerking[83097:4300355] [CDVTimer][TotalPluginStartup] 20.279050ms
+2015-05-25 16:49:38.837 burgerking[83097:4300355] Resetting plugins due to page load.
+2015-05-25 16:49:39.247 burgerking[83097:4300355] Finished load of: file:///Users/baiqunwei/Library/Developer/CoreSimulator/Devices/B61C556A-6DF0-4764-AEED-C9563EDF1BCD/data/Containers/Bundle/Application/39A6CAA9-6D39-4E8B-9423-007CFCD01DEE/burgerking.app/www/index.html#/bkchina/menu/home/history
