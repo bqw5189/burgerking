@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A7B5C274-A972-46AC-B1FF-25875EC1C13B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>burgerking</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>8C73F44CA2F586DD3C6698274A65D80AD6A53391</key>
 		<string>https://github.com/bqw5189/burgerking.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>platforms/ios/burgerking.xcodeproj</string>
+	<string>platforms/ios/burgerking.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8C73F44CA2F586DD3C6698274A65D80AD6A53391</key>

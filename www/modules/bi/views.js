@@ -20,5 +20,12 @@ bkchina.config(function($stateProvider, $urlRouterProvider) {
   	    controller:"BiCtrl"
   	    
   	 })
+  	 
+  	 .state('bkchina.menu.home.bi.daily-sales-map', {
+  	    url: "/daily-sales-map",
+  	    templateUrl: "modules/bi/daily-sales-map.html",
+  	    controller:"BiMapCtrl"
+  	    
+  	 })
   	
 });

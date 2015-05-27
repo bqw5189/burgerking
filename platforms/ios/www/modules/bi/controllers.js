@@ -1,5 +1,36 @@
 angular.module('bi.controllers', [])
-
+.controller('BiMapCtrl', function($scope) {
+	var map = new BMap.Map("allmap");
+	
+	function myFun(result){
+		map.centerAndZoom(result.center,result.level);
+		
+		//seach bk
+		var options = {
+				onSearchComplete: function(results){
+					// 判断状态是否正确
+					if (local.getStatus() == BMAP_STATUS_SUCCESS){
+						var s = [];
+						for (var i = 0; i < results.getCurrentNumPois(); i ++){
+							s.push(results.getPoi(i).title + ", " + results.getPoi(i).address);
+							console.log(results.getPoi(i).point.lng + ", " + results.getPoi(i).address);
+							var marker = new BMap.Marker(results.getPoi(i).point);
+							map.addOverlay(marker);
+							var label = new BMap.Label(results.getPoi(i).title+" SALES:100 TC:100 ",{offset:new BMap.Size(20,-10)});
+							marker.setLabel(label); //添加百度label
+						}
+						
+					}
+				}
+			};
+		
+		var local = new BMap.LocalSearch(map, options);
+		local.search("汉堡王");
+	}
+	
+	var myCity = new BMap.LocalCity();
+	myCity.get(myFun);
+})
 .controller('BiCtrl', function($scope,$ionicPopover) {
 	$scope.labels = ['大宁店', '金山店', '三亚凤凰机场','长宁店','虹桥店','张江店','中山公园店'];
 	  $scope.series = ['销售额'];
